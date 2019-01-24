@@ -1,0 +1,24 @@
+# **Schwarzmann Project Update (01/18/2019)**
+Note: Tick mark means completed tasks. Will be removed in the latter project update documents.
+
+## Zimmerman (Adult Influenza Vaccine study)
+Summary: Differential Expression analysis on patients with different flu vaccines.
+- [x] 1. Fill Anish in on where we're at
+
+## Parikh (HIV mutation analysis)
+Summary: Finding mutations in  HIV RT sequences resistant to drugs from clinical trails and MP samples
+- [ ] 1. Test Rahil's updated Pipeline
+- [x] 2. Write script to test number of N's allowed
+- [ ] 3. Call in to HIV team meeting on Thursday
+- [ ] 4. Test for optimal number of Ns from 0 to 70
+- [ ] 5. Plot K103N frequency across N's allowed
+- [ ] 6. Test mutation frequency at different levels
+
+## Aurora (Data Correspondence)
+Summary: Track and manage data delivered from REDCap database and sequencing sites.
+- [ ] 1. Meet with Mike Davis on Friday about cBIO
+- [ ] 2. Have Alexander Ropelewski test Aurora PSC alotment 
+
+## Puccio (Brain damage RNASeq)
+Summary: Become a part of this project
+- [ ] 1. Run microarray pipeline if possible
