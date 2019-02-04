@@ -1,0 +1,22 @@
+# **Schwarzmann Project Update (02/08/2019)**
+Note: Tick mark means completed tasks. Will be removed in the latter project update documents.
+
+## Zimmerman (Adult Influenza Vaccine study)
+Summary: Differential Expression analysis on patients with different flu vaccines.
+- [ ] 1. 
+
+## Parikh (HIV mutation analysis)
+Summary: Finding mutations in  HIV RT sequences resistant to drugs from clinical trails and MP samples
+- [x] 1. Plot K103N frequency across all cutoffs allowed
+- [ ] 2. Test cutoff at N=0
+- [ ] 3. Test cutoff at N=5
+- [ ] 4. Get html MSA files at 80% for N=0, 1, 5
+- [ ] 5. Attend Rahil's pipeline workshop
+
+## Aurora (Data Correspondence)
+Summary: Track and manage data delivered from REDCap database and sequencing sites.
+- [ ] 1. Test cBIO format
+
+## Puccio (Brain damage RNASeq)
+Summary: Become a part of this project
+- [ ] 1. Run microarray pipeline if possible
