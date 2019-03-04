@@ -1,0 +1,14 @@
+# **Schwarzmann Project Update (03/08/2019)**
+Note: Tick mark means completed tasks. Will be removed in the latter project update documents.
+
+## Parikh (HIV mutation analysis)
+Summary: Finding mutations in  HIV RT sequences resistant to drugs from clinical trails and MP samples
+- [ ] 1. Run contamination pipeline on DS25
+
+## Aurora (Data Correspondence)
+Summary: Track and manage data delivered from REDCap database and sequencing sites.
+- [ ] 1. Put Aurora metadata in JSON format
+
+## Miscellaneous
+Summary: Non-project tasks
+- [ ] 1. Port HIV pipeline to nextflow and singularity 
